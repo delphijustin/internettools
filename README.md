@@ -1,10 +1,10 @@
 # internettools
 These are some scripts that can help with Internet issues
 
-GetWANIP4      Gets your IPv4 Internet address
+GetWANIP4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gets your IPv4 Internet address
 
-GetWANIP6      Gets your IPv6 Internet address
+GetWANIP6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gets your IPv6 Internet address
 
-internetTester Tests your internet connection beetween google and your computer
+internetTester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tests your internet connection beetween google and your computer
 
-testDNS        Test DNS server
+testDNS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test DNS server
